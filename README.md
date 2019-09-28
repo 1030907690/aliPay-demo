@@ -9,7 +9,7 @@ aliPay-demo
 ![1](pay1.png)
 
 - main方法运行AliPayDemoApplication
-
+- 支付回调的处理我预留起的
 #### 二、客户端代码
 - 具体操作步骤可查看官方文档: https://docs.open.alipay.com/204/105296/ ,从导入支付宝 SDK步骤开始看起;需要导入包,加权限。
-- 主要业务代码在MainActivity
+- 主要业务代码在MainActivity,要修改下单地址中间的域名(或ip);支付回调需要公网域名.
