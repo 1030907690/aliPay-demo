@@ -35,7 +35,6 @@ public class PayController {
     private final String ALIPAY_PUBLIC_KEY = "您的公钥";
 
 
-    private final String charset = "UTF-8";
 
 
     //支付成功后的回调地址
